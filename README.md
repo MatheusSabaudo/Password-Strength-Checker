@@ -25,7 +25,7 @@ A Python tool to evaluate password strength using length, character variety, ent
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Password-Strength-Checker.git
+git clone https://github.com/MatheusSabaudo/Password-Strength-Checker.git
 cd Password-Strength-Checker
 ```
 
